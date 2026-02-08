@@ -5,8 +5,13 @@ cloud infrastructure, and automation. Specializes in implementing and managing K
 optimization. Passionate about building scalable solutions and optimizing development workflows.
 
 ### 🏅Certificates
-<p align="left"><img src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png" alt="https://www.credly.com/badges/a493b5d5-8245-4d9c-ad0a-d727b9665ed6/public_url" width="100" height="100"/> 
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/a493b5d5-8245-4d9c-ad0a-d727b9665ed6/public_url" width="100" height="100"/>
+<p align="left">
+<img src="https://github.com/cncf/artwork/blob/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.png" alt="https://www.credly.com/earner/earned/badge/2006b8c4-155a-456d-80e7-82c786aaaea4/public_url" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/other/ckad/color/kubernetes-ckad-color.png" alt="https://www.credly.com/earner/earned/badge/16ad2bf5-04fc-44b4-8a56-2e319a46deff/public_url" width="100" height="100"/> 
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/earner/earned/badge/064151b6-69d5-4c0d-b83c-da7e4979c399/public_url" width="100" height="100"/>
+<img src="https://github.com/cncf/artwork/blob/main/other/kss/color/kubernetes-security-specialist-color.png" alt="https://www.credly.com/earner/earned/badge/d42357b7-bac3-412a-b714-4a5bc12dfcd6/public_url" width="100" height="100"/>
+<img src="https://github.com/cncf/artwork/blob/main/other/kcna/color/kubernetes-kcna-color.png" alt="https://www.credly.com/earner/earned/badge/57772d29-0c1a-49d8-a702-d7fcbb3ca08b/public_url" width="100" height="100"/>
+<img src="https://github.com/cncf/artwork/blob/main/other/kcsa/color/kubernetes-kcsa-color.png" alt="https://www.credly.com/earner/earned/badge/438cda4d-7e93-44fd-99d8-611a1762dca0/public_url" width="100" height="100"/>
 </p>
 
 ## 🛠 Skills
@@ -34,7 +39,7 @@ optimization. Passionate about building scalable solutions and optimizing develo
 ## 💻  Tools worked on
 
 - **Containerization & Orchestration:** Docker, Kubernetes (EKS/AKS), OpenShift, Rancher
-- **Cloud & Infrastructure as Code:** AWS, Terraform, Packer, CloudFormation
+- **Cloud & Infrastructure as Code:** AWS, Oracle Cloud, Terraform, Packer, CloudFormation
 - **CI/CD & Configuration Management:** Jenkins, Spinnaker, Ansible, Puppet, Helm, ArgoCD
 - **Monitoring & Logging:** Grafana, Prometheus, Victoriametrics, ELK stack, Fluent-bit, Nagios, AppDynamics, Splunk
 - **Security & Code Quality:** Trivy, JFrog XRay, Mend, Snyk, SonarQube, Coverity
